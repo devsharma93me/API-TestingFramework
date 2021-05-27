@@ -31,7 +31,7 @@ public class RestClient {
 		JSONObject responseJSON = new JSONObject(responseString);
 		System.out.println("Response in JSON from API" + responseJSON);
 
-//1.c ALL HEADERS
+//1.c ALL HEADERS in array
 		Header[] headersArray = closablehttpresponse.getAllHeaders();
 		HashMap<String, String> allHeaders = new HashMap<String, String>();
 
