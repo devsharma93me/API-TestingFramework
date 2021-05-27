@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-28T01:15:21 IST" name="Default suite" finished-at="2021-05-28T01:19:17 IST" duration-ms="236460">
+  <suite started-at="2021-05-28T01:36:36 IST" name="Default suite" finished-at="2021-05-28T01:36:38 IST" duration-ms="1831">
     <groups>
     </groups>
-    <test started-at="2021-05-28T01:15:21 IST" name="Default test" finished-at="2021-05-28T01:19:17 IST" duration-ms="236460">
+    <test started-at="2021-05-28T01:36:36 IST" name="Default test" finished-at="2021-05-28T01:36:38 IST" duration-ms="1831">
       <class name="testCaseExecutor.GetAPITest">
-        <test-method is-config="true" signature="setUP()[pri:0, instance:testCaseExecutor.GetAPITest@2f8dad04]" started-at="2021-05-28T01:15:21 IST" name="setUP" finished-at="2021-05-28T01:15:42 IST" duration-ms="20877" status="PASS">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:testCaseExecutor.GetAPITest@2bfc268b]" started-at="2021-05-28T01:36:36 IST" name="setUP" finished-at="2021-05-28T01:36:36 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method signature="getTest()[pri:0, instance:testCaseExecutor.GetAPITest@2f8dad04]" started-at="2021-05-28T01:15:42 IST" name="getTest" finished-at="2021-05-28T01:19:17 IST" duration-ms="215504" status="PASS">
+        <test-method signature="getTest()[pri:0, instance:testCaseExecutor.GetAPITest@2bfc268b]" started-at="2021-05-28T01:36:36 IST" name="getTest" finished-at="2021-05-28T01:36:38 IST" duration-ms="1768" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getTest -->

@@ -13,7 +13,7 @@ public class TestBase {
 		prop = new Properties();
 		try {
 			FileInputStream fis = new FileInputStream(
-					System.getProperty("user.dir") + "/src/main/resources/Config.properties");
+					System.getProperty("user.dir") + "/src/test/resources/Config.properties");
 			prop.load(fis);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
